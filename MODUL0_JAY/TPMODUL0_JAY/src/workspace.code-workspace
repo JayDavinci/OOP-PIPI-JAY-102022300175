@@ -1,0 +1,13 @@
+{
+	"folders": [],
+	"settings": {
+		"java.project.sourcePaths": [
+			"src",
+			"TPMODUL1_JAY/src"
+		],
+		"java.project.outputPath": "bin",
+		"java.project.referencedLibraries": [
+			"lib/**/*.jar"
+		]
+	}
+}
