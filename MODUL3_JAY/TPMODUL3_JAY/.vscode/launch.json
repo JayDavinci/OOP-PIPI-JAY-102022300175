@@ -1,0 +1,19 @@
+{
+   "version": "0.2.0",
+   "configurations": [
+      {
+         "type": "java",
+         "name": "Current File",
+         "request": "launch",
+         "mainClass": "${file}"
+      },
+      {
+         "type": "java",
+         "name": "App",
+         "request": "launch",
+         "mainClass": "App",
+         "projectName": "Praktikum_11d46343",
+         "vmArgs": "--module-path \"C:/Users/jayda/OneDrive - Telkom University/School-Jay/SEMESTER 3/PBO/javafx-sdk-17.0.13/lib\" --add-modules javafx.controls,javafx.fxml"
+      }
+   ]
+}
